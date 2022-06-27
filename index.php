@@ -1,4 +1,4 @@
 <?php 
 
-	echo "git pertubado";
+	echo "Git lokao";
  ?>
